@@ -1,0 +1,8 @@
+console.log(2)
+console.log(2.4)
+console.log(4 - 2 * (8 * 2) + 8)
+console.log(4 + 2)
+console.log(4 * 2)
+console.log(4 / 2)
+console.log(4 % 2)
+console.log(5 % 2)
