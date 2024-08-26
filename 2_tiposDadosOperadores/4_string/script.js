@@ -1,0 +1,5 @@
+console.log("Oi, meu nome é Rogeiro")
+console.log('Estou  aprendendo javascript')
+console.log(`Teste de uso da crase`)
+console.log(typeof `Infinity`)
+console.log(typeof Infinity)
