@@ -1,0 +1,10 @@
+// let 3nome = "Rogerio"
+let $nome = "Teste2"
+let _nome = "Teste3"
+let nome3 = "teste"
+// let !nome = "teste !"
+// let @nome = "Teste @"
+
+let Nome = "Camel case"
+let seuNome = "Camel Case"
+let seu_nome = "Opção _"
