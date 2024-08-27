@@ -5,11 +5,11 @@ escreverH1.textContent = tituloAula
 
 let container = document.getElementById('container')
 
-
 // let h2 = document.createElement("h2")
 // h2.innerHTML = `O z é ${z}`
 // container.appendChild(h2)
 // let nome = "João"
+
 let numero = 0
 while (numero < 50) {
 
